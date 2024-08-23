@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+    "name"              "Mephisto's Custom Printers"
+    "version"           "1.0"
+    "up_date"           "17/08/24"
+    "author_name"       "Mephisto"
+}
