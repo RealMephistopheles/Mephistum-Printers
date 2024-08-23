@@ -86,7 +86,9 @@ You want to replace **[PRINTERNAME]** by the config file you created.
 
 Congrats! You made you're own printer :)
 
-## Authors
+## Author & Contribution
 
-- [@RealMephistopheles](https://github.com/RealMephistopheles/)
+- Author : [@RealMephistopheles](https://github.com/RealMephistopheles/)
+
+- 3D2D ImGui : [@wyozi-gmod](https://github.com/wyozi-gmod/)
 
